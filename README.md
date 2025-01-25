@@ -1,7 +1,7 @@
 # Hi there, I'm Andres Bonilla! 👋
 
 ## About Me
-I am a passionate **Software Developer** with a strong foundation in **Mechatronics Engineering** and a deep interest in **web development**, **machine learning**, and **modern technologies**. Currently, I am pursuing an **AEC in IT Programmer Analyst** at LaSalle College in Montreal, where I have honed my skills in programming and software development. I'm actively looking for opportunities to apply my knowledge and grow further as a **Full-Stack Developer** or **Machine Learning Engineer**.
+I am a passionate **Software Developer** with a strong foundation in **Robotics Engineering** and a deep interest in **web development**, **machine learning**, and **modern technologies**. Currently, I am pursuing an **AEC in IT Programmer Analyst** at LaSalle College in Montreal, where I have honed my skills in programming and software development. I'm actively looking for opportunities to apply my knowledge and grow further as a **Full-Stack Developer** or **Machine Learning Engineer**.
 
 ## Technical Skills
 - **Languages**: Java, Python, C++, C#, SQL, HTML, CSS, JavaScript
