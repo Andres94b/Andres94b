@@ -7,16 +7,7 @@ I am a passionate **Software Developer** with a strong foundation in **Mechatron
 - **Languages**: Java, Python, C++, C#, SQL, HTML, CSS, JavaScript
 - **Frameworks/Tools**: Vue.js, Linux, UML Diagrams
 - **Expertise**: Object-Oriented Programming, Embedded Systems, Debugging Software, Test Plan Creation
-
-## 🌍 Multilingual Communicator
-I am fluent in **English**, **French**, and **Spanish**, which allows me to collaborate effectively with diverse teams and clients.
-
-## 🚀 Projects
-Here are some projects I am proud of:
-1. **[Not It Task Manager](#)** - A creative web application with user and task management.
-2. **[Chez Moi](#)** - An Airbnb-style aclone app with real state API implementation.
-3. **[E-Commerce Platform](#)** - A user-driven website for posting and managing products for sale.
-
+  
 ## 🔭 Current Goals
 - Seek a **Software Development Internship** starting May 2025.
 - Build my personal website using **Vue.js**.
@@ -34,4 +25,3 @@ Here are some projects I am proud of:
 - **Email**: [Andres94b@gmail.com](mailto:andres94b@gmail.com)
 - **Page**: [Coming Soon!]
 
-Let's build something together!
