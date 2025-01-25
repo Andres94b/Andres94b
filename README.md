@@ -5,7 +5,7 @@ I am a passionate **Software Developer** with a strong foundation in **Mechatron
 
 ## 💻 Technical Skills
 - **Languages**: Java, Python, C++, C#, SQL, HTML, CSS, JavaScript
-- **Frameworks/Tools**: Vue.js, Linux, UML Diagrams
+- **Frameworks/Tools**: Vue.js, React, Laravel, node.js, Linux, UML Diagrams
 - **Expertise**: Object-Oriented Programming, Embedded Systems, Debugging Software, Test Plan Creation
   
 ## 🔭 Current Goals
