@@ -1,6 +1,37 @@
-- 👋 Hi, I’m Andres Bonilla
-- 👀 I’m interested in becoming a machine learning Engineer
-- 🌱 I’m currently learning the libraries used for running AI models
-- 💞️ I’m looking to collaborate on Data Science Projects and apply them to real situations
-- 📫 How to reach me: email me at andres94b@gmail.com
+# Hi there, I'm Andres Bonilla! 👋
 
+## 🌟 About Me
+I am a passionate **Software Developer** with a strong foundation in **Mechatronics Engineering** and a deep interest in **web development**, **machine learning**, and **modern technologies**. Currently, I am pursuing an **AEC in IT Programmer Analyst** at LaSalle College in Montreal, where I have honed my skills in programming and software development. I'm actively looking for opportunities to apply my knowledge and grow further as a **Full-Stack Developer** or **Machine Learning Engineer**.
+
+## 💻 Technical Skills
+- **Languages**: Java, Python, C++, C#, SQL, HTML, CSS, JavaScript
+- **Frameworks/Tools**: Vue.js, Linux, UML Diagrams
+- **Expertise**: Object-Oriented Programming, Embedded Systems, Debugging Software, Test Plan Creation
+
+## 🌍 Multilingual Communicator
+I am fluent in **English**, **French**, and **Spanish**, which allows me to collaborate effectively with diverse teams and clients.
+
+## 🚀 Projects
+Here are some projects I am proud of:
+1. **[Not It Task Manager](#)** - A creative web application with user and task management.
+2. **[Chez Moi](#)** - An Airbnb-style aclone app with real state API implementation.
+3. **[E-Commerce Platform](#)** - A user-driven website for posting and managing products for sale.
+
+## 🔭 Current Goals
+- Seek a **Software Development Internship** starting May 2025.
+- Build my personal website using **Vue.js**.
+- Work on projects that integrate **machine learning** and **mechatronics**.
+
+## 🌟 Fun Facts
+- I have experience automating systems in the **packaging and plastics industry**.
+- I love watching crime, science fiction, biograbhy shows and movies.
+- I enjoy cooking all kind of meals for my friends and family.
+- I use my free time to play guitar and make live looping music.
+- I am excited to explore new technologies and collaborate on impactful projects.
+
+## 📫 Get in Touch
+- **LinkedIn**: [Andres Bonilla](https://www.linkedin.com/in/andres-bonilla-07/)
+- **Email**: [Andres94b@gmail.com](mailto:andres94b@gmail.com)
+- **Page**: [Coming Soon!]
+
+Let's build something together!
