@@ -5,9 +5,8 @@ I am a passionate **Software Developer** with a strong foundation in **Mechatron
   
 ## Current Goals
 - Seek a **Software Development Internship** starting May 2025.
-- Build my personal website using **Vue.js**.
-- Work on projects that integrate **machine learning** and **robotics**.
-
+- Work on challenging projects.
+  
 ## Fun Facts
 - I have experience automating systems in the **packaging and plastics industry**.
 - I love watching crime, science fiction, biograbhy shows and movies.
