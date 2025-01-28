@@ -5,7 +5,7 @@ I am a passionate **Software Developer** with a strong foundation in **Mechatron
   
 ## Current Goals
 - Seek a **Software Development Internship** starting May 2025.
-- Work on challenging projects.
+- Work on challenging projects accompanied by encouraging developer teams.
   
 ## Fun Facts
 - I have experience automating systems in the **packaging and plastics industry**.
