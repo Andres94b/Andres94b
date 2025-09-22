@@ -1,10 +1,10 @@
-# Hi there, I'm Andres Bonilla! 👋
+# Hi there, I'm Andres! 👋
 
 ## About Me
-I am a passionate **Software Developer** with a strong foundation in **Mechatronics Engineering** and a deep interest in **web development**, **machine learning**, and **Embedded technologies**. I'm actively looking for opportunities to apply my knowledge and grow further as a **Back end Developer**, **Data Scientist** or **Embedded Software Developer**.
+I am a passionate **Mechatronics Engineering** with a strong foundation in **Software Developer** and a deep interest in **Robotics**, **Machine Learning**, and **IoT & Embedded Technologies**. I'm actively looking for opportunities to apply my knowledge and grow further as a **Back end Developer**, **AI, IoT & Robotics** or **Embedded Software Developer**.
   
 ## Current Goals
-- Seek a **Software Development Full-Time Positions** starting as soon as possible.
+- Seek a **Software Development Full-Time Positions**.
 - Work on challenging projects accompanied by motivated developer teams.
 
 ## Get in Touch
