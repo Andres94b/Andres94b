@@ -1,7 +1,7 @@
 # Hi there, I'm Andres! 👋
 
 ## About Me
-I am a passionate **Mechatronics Engineering** with a strong foundation in **Software Developer** and a deep interest in **Robotics**, **Machine Learning**, and **IoT & Embedded Technologies**. I'm actively looking for opportunities to apply my knowledge and grow further as a **Back end Developer**, **AI, IoT & Robotics** or **Embedded Software Developer**.
+Software Developer focused on backend and full-stack development, with experience building scalable web applications and production-grade systems using .NET, Node.js, Spring Boot, React, and modern cloud architectures.
   
 ## Current Goals
 - Seek a **Software Development Full-Time Positions**.
